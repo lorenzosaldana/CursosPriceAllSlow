@@ -1,6 +1,7 @@
 # CursosPriceAllSlow
 An MT4 indicator that will show the price relative to where the cursor is hovering anywhere in the chart. Using this indicator will result in significantly slower performance in chart operations as it is resource heavy.
-***WARNING: The use of this indicator should only be done in demo accounts as the use of the indicator results in significantly slower chart operations.***
+
+***WARNING: This indicator should only be used in demo accounts as the use of the CursosPriceAllSlow indicator results in significantly slower chart operations.***
 
 ## How To Use: 
 1. Add the CursosPriceAllSlow.ex4 file to your MT4's Indicators folder.
